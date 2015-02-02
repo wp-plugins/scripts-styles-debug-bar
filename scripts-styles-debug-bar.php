@@ -3,7 +3,7 @@
  * Plugin Name: Scripts Styles Debug Bar
  * Plugin URI: http://sudeeprana.com
  * Description: A tiny plugin to display all enqueued scripts and styles. debug-bar Dependent. Little help for Plugin/Theme Developers.
- * Version: 0.1
+ * Version: 0.2
  * Author: The CodeWink Team
  * Author URI: http://sudeeprana.com
  * License: GPL2
