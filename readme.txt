@@ -1,7 +1,7 @@
 === What Scripts Styles Debug Bar ===
 Contributors: ravinderk, sudeep333
 Tags: Debug, Debug Bar
-Requires at least: 3.1 or higher
+Requires at least: 3.1
 Tested up to: 4.1
 Stable Tag: 0.2
 Dependencies: debug-bar plugin
