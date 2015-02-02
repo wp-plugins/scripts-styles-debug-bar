@@ -1,0 +1,8 @@
+table#all_enq_scripts th {
+  font-weight: bold;
+}
+
+table#all_enq_scripts th,
+table#all_enq_scripts td {
+  padding: 5px;
+}
