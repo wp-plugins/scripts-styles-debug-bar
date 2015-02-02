@@ -48,5 +48,8 @@ It will get attached with debug-bar plugin [ check All Scripts and All styles Pa
 
 == Changelog ==
 
-= 1.0 =
+= 0.2 =
+Some small fixes
+
+= 0.1 =
 Initial Release
