@@ -3,7 +3,7 @@ Contributors: ravinderk, sudeep333
 Tags: Debug, Debug Bar
 Requires at least: 3.1 or higher
 Tested up to: 4.1
-Stable Tag: 0.1
+Stable Tag: 0.2
 Dependencies: debug-bar plugin
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
