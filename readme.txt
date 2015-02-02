@@ -8,12 +8,15 @@ Dependencies: debug-bar plugin
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds two menu items into debug-bar menu: 1) All Scripts 2) All Styles
+A tiny plugin to display all enqueued scripts and style
 
 
 == Description ==
 
-A tiny plugin to display all enqueued scripts and styles..
+A tiny plugin to display all enqueued scripts and styles.
+Adds two menu items into debug-bar menu:
+1) All Scripts
+2) All Styles
 
 
 == Installation ==
