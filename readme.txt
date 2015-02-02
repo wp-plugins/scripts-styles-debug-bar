@@ -1,5 +1,5 @@
 === What Scripts Styles Debug Bar ===
-Contributors: Ravinder Kumar, Sudeep Kumar Rana
+Contributors: ravinderk, sudeep333
 Tags: Debug, Debug Bar
 Requires at least: 3.1 or higher
 Tested up to: 4.1
@@ -13,13 +13,7 @@ Adds two menu items into debug-bar menu: 1) All Scripts 2) All Styles
 
 == Description ==
 
-A must for wordpress developers.
-
-Many times we need to know what all scripts and styles are being executing on a certain page. This
-
-little plugin can help you out. 
-
-It tells you 1) Enqueued 2) Script Handle 3) src link 4) version and 5) Dependencies of the script
+A tiny plugin to display all enqueued scripts and styles..
 
 
 == Installation ==
@@ -34,6 +28,11 @@ It tells you 1) Enqueued 2) Script Handle 3) src link 4) version and 5) Dependen
 = Can I use this on production / live site? =
 
 You can you it for both sites to debug your script and style files.
+
+== Screenshots ==
+
+1. All scripts panel
+2. All styles panel
 
 
 == Upgrade Notice ==
